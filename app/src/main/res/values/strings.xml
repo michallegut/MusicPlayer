@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DjPlayer</string>
+    <string name="album_image">Album Image</string>
+    <string name="rewind_back">Rewind Back</string>
+    <string name="start_or_pause">Start or Pause</string>
+    <string name="rewind_forward">Rewind Forward</string>
+    <string name="main_menu">Choose Sound</string>
+    <string name="scratch_submenu">Scratch Samples</string>
+    <string name="drum_submenu">Drum Samples</string>
+    <string name="drum_1">Drum 1</string>
+    <string name="drum_2">Drum 2</string>
+    <string name="scratch_1">Scratch 1</string>
+    <string name="scratch_2">Scratch 2</string>
+    <string name="activate">Activate</string>
+</resources>
